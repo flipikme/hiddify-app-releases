@@ -1,1 +1,1 @@
-# hiddify-app-relaeses
+# hiddify-app-releases
